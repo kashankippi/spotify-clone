@@ -1,2 +1,2 @@
 # spotify-clone
-About spotify
+About spotify.
